@@ -1,0 +1,12 @@
+.idea*
+.DS_Store
+.venv*
+*.data
+*.bin
+*.pyc
+*.pytest_cache
+*.egg-info
+
+# Distutils directories
+build/
+dist/
